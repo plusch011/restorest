@@ -1,14 +1,7 @@
-[![Build Status](https://travis-ci.org/yottaawesome/react-tsx-boilerplate.svg?branch=master)](https://travis-ci.org/yottaawesome/react-tsx-boilerplate) ![Dependencies](https://david-dm.org/yottaawesome/react-tsx-boilerplate.svg) ![Dev-Dependencies](https://david-dm.org/yottaawesome/react-tsx-boilerplate/dev-status.svg)
-
-# React TSX Boilerplate
+# Restorest frontend
 
 ## Introduction
-
-This repository is a minimal boilerplate repo for React, WebPack and TypeScript. It comes with `react-router-dom` and modular SCSS support set up, but does not come with Redux or any other React state management library.
-
-## Status
-
-This project is being continually maintained.
+React Typesctipt Mobx
 
 ## Using the code
 
@@ -22,7 +15,6 @@ The `src` folder contains a basic example app to get started.
     3. `npm run start` to start the dev-server.
 * Make whatever additional changes you need for your project.
 
-You can optionally use `docker-compose` to start up a container that builds and watches the files. Note that the watch functionality does not work on Windows due to limitations that [prevent changes to files on a Windows host from being propagated to containers](https://forums.docker.com/t/file-system-watch-does-not-work-with-mounted-volumes/12038/20).
 
 ## Debugging
 
